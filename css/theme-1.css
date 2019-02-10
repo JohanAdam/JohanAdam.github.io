@@ -3482,7 +3482,7 @@ footer.short-2 .contact-action:hover {
 .skill-bar-holder {
   height: 12px;
   width: 100%;
-  background: rgba(1, 162, 166, 0.1);
+  background: rgba(47, 41, 51, 0.1);
   padding: 0px;
   position: relative;
 }
@@ -3500,7 +3500,7 @@ footer.short-2 .contact-action:hover {
   background: rgba(47, 41, 51, 0.1);
 }
 .skills-left .skill-capacity {
-  background: #2f2933;
+  background: var( --accent-color);
   left: auto;
   right: 0px;
 }
