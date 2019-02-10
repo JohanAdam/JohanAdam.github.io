@@ -1,4 +1,10 @@
+/* Remove shadow in carousell */
 .carousel-control.left, .carousel-control.right {
     background-image:none !important;
     filter:none !important;
  }
+
+ /* Smooth scrolling when clicking link */
+ html {
+    scroll-behavior: smooth;
+  }
