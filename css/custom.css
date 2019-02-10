@@ -8,3 +8,17 @@
  html {
     scroll-behavior: smooth;
   }
+
+
+/* Center text in div */
+ #column-content {
+   display: table;
+   /* background-color: #000; */
+ }
+ 
+ #column-content-son {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   /* color: #fff; */
+ }
