@@ -556,5 +556,12 @@ function onYouTubeIframeAPIReady() {
 			});
 		});
 	});
-	
 }
+
+// $(document).ready(function(){
+// 	if (window.location.hash == "#contact") {
+// 	  $('html, body').animate({
+// 		 scrollTop: $("#contact").offset().top
+// 	   }, 1000);
+// 	}
+//  });
